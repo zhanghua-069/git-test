@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("third commit");
         System.out.println("hotfix commit");
         System.out.println("github push");
+        System.out.println("github pull");
     }
 }
